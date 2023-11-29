@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "title": "Power of habits --",
+      "author": "Charles Duhigg --",
+      "price": 2000,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Learning Angular",
+      "author": "Pablo Deeleman",
+      "price": 41
+    },
+    {
+      "id": 3,
+      "title": "Atmic habits",
+      "author": "Charles Duhigg",
+      "price": 30
+    },
+    {
+      "id": 4,
+      "title": "Power of now",
+      "author": "Charles Duhigg",
+      "price": 25
+    }
+  ],
+  "users": [
+    {
+      "username": "adamch1",
+      "email": "adem.chabchoub5@gmail.com",
+      "password": "ali1234",
+      "id": 1
+    },
+    {
+      "username": "omarNj",
+      "email": "omar@gmail.com",
+      "password": "omar1234",
+      "id": 2
+    },
+    {
+      "username": "Sam10",
+      "email": "sam10@gmail.com",
+      "password": "ali1234",
+      "id": 3
+    },
+    {
+      "username": "maram",
+      "email": "maram@gmail.com",
+      "password": "maram1234",
+      "id": 4
+    }
+  ]
+}
